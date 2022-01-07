@@ -1,6 +1,6 @@
 # SentimentAnalysis-Klitih-
 
-This project aims is getting know related tweet about 'klitih'. I scraped the data, try to analyse, and do sentiment analysis.
+This project aims is getting know related tweet about 'klitih'. I scraped the data (twints lib), try to analyse, and do sentiment analysis.
 
 Lib used:
 matplotlib
